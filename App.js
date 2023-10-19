@@ -1,5 +1,14 @@
-var parent =[React.createElement("div",{},React.createElement("h1",{},"welcome to react class")),React.createElement("p",{},
-"React lets you build user interfaces out of individual pieces called components"),React.createElement("h2",{},"react first assignment")]
-var htmlRoot=document.getElementById("root")
-var rootReact=ReactDOM.createRoot(htmlRoot)
-rootReact.render(parent)
+import React from "react";
+import ReactDOM from "react-dom";
+var reactHeadOne=<h1> Java sdcript
+                <h2> React
+                    <h3> jsx</h3>
+                </h2>
+            </h1>
+var rootElement=document.getElementById("root");
+var rootCont=ReactDOM.createRoot(rootElement);
+rootCont.render(reactHeadOne);
+function Welcome() {
+    return <h1>Hello</h1>;
+  }
+rootCont.render(<Welcome/>)
