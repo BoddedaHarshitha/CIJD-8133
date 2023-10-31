@@ -1,0 +1,2 @@
+export const App_logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzJJTRuJgQCUztTPP33xoKPgXxQhTMR77tIA&usqp=CAU"
+export const App_Icon="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1nHJJVocQbAdfUQHDEXeVu0V8MJqnnacJvQ&usqp=CAU"
