@@ -1,0 +1,1 @@
+export const FOOD_APP_LOGO ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiWlyaj2WPDGkcuEjbMSQyiQf_3vJD1URQI-JJj3k&s";
